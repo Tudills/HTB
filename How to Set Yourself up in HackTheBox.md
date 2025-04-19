@@ -198,7 +198,7 @@ it will soon.
 
 ---
 
-### Step 8: HTB or, _"I'm in Pt.2: Electric Bugaloo."
+### Step 8: HTB or,  _"I'm in Pt.2: Electric Bugaloo."_
 
 _Pop open that command line daddy_
 
