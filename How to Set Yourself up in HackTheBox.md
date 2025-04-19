@@ -101,6 +101,8 @@ After I move the Zip file, I'll extract it. And usually trim the name.
 ![Step 4.4]***placeholder for photo 4.4***
 _(I'll delete the zip file at this point honestly.)_
 
+---
+
 ### Step 5: Reboot and Running a Kali VM
 
 I would advise, once Virtual Box is installed and your kali image is downloaded, 
@@ -116,6 +118,8 @@ There will be a little blueish box.
 
 And that's what we will select. This is a preconfigured image, 
 for now we aren't going to tamper with it too much.
+
+---
 
 ### Step 6: "I'm In"
 
@@ -138,6 +142,8 @@ _sudo apt update_
 ![Step 6.3]***placeholder for photo 6.3***
 
 It will ask for a password, which will be, _"kali"_ as stated above.
+
+---
 
 ### Step 7: HTB; a primer
 
@@ -189,6 +195,8 @@ When we, _"Downloaded"_ we did not download OpenVPN, what we downloaded was a us
 This file is going to have your user information. Basically that whole drop menu, and logging into our accounts,
 and then finally clicking, download, we successfully made a configure file. If this doesn't make sense trust the process,
 it will soon.
+
+---
 
 ### Step 8: HTB or, _"I'm in Pt.2: Electric Bugaloo."
 
