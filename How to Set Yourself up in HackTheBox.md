@@ -44,7 +44,7 @@ Lets go to
 
 [VirtualBox](https://www.virtualbox.org/)
 
-![VirtualBox Org](https://github.com/user-attachments/assets/4e70dd96-e60f-4fb7-a631-387798bc7595)
+<img src="![VirtualBox Org](https://github.com/user-attachments/assets/4e70dd96-e60f-4fb7-a631-387798bc7595)" alt="Alt Text" width="640" height="320"> 
 
 Lets click the download link at the top of the page
 
