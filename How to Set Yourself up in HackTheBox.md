@@ -3,7 +3,6 @@
 **Author**: Tudills  
 **Date**: 2025-04-18  
 
-
 ---
 
 ## Overview
@@ -36,7 +35,6 @@ or "Intel Virtualization Technology" or "AMD-V" or "SVM Mode" and make sure that
 
 After that is done, Save the changes and exit the BIOS/UEFI
 
-
 ---
 
 ### Step 2: Setting Up VirtualBox  
@@ -44,18 +42,14 @@ Lets go to
 
 [VirtualBox](https://www.virtualbox.org/)
 
-<img src="![VirtualBox Org](https://github.com/user-attachments/assets/4e70dd96-e60f-4fb7-a631-387798bc7595)" width="640" height="320"> 
-
 Lets click the download link at the top of the page
 
-![VirtualBox Org Download](https://github.com/user-attachments/assets/924cf6fc-7db9-4405-afcf-c43c605f9a02)
-
+<img src="https://github.com/user-attachments/assets/924cf6fc-7db9-4405-afcf-c43c605f9a02" width="640" height="500">
 
 If we scroll down the page, we can see a list of choices where we can download an installer for VirtualBox for our respective Operating System.
 In this case we are just going to click on the Windows Option.
 
-![Virtual Box Org Picking Our Platform](https://github.com/user-attachments/assets/bc1edbc5-1264-41ed-a340-d7f8b702dea5)
-
+<img src="https://github.com/user-attachments/assets/bc1edbc5-1264-41ed-a340-d7f8b702dea5" width="640" height="320">
 
 After we downloaded it, let us go to the folder where our downloads are, and double click the installer.
 Personally, When I installed VirtualBox I did a regular standard install. 
@@ -74,7 +68,7 @@ on the next page it will say, "Choose Your Platform"
 we are going to click "Virtual Machines"
 
 ![Clicking Virtual Machine](https://github.com/user-attachments/assets/c9e1dd4d-538a-4cf8-9821-43de26505d3f)
-photo 3.2***
+
 
 Within the options we have to choose from, we are going to select *"VirtualBox"*
 
