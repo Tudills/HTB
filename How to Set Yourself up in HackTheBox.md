@@ -37,12 +37,11 @@ or "Intel Virtualization Technology" or "AMD-V" or "SVM Mode" and make sure that
 After that is done, Save the changes and exit the BIOS/UEFI
 
 
-![Step 1] ***placeholder for photo 1***
-
 ---
 
 ### Step 2: Setting Up VirtualBox  
 Lets go to 
+
 [VirtualBox](https://www.virtualbox.org/)
 
 ![VirtualBox Org](https://github.com/user-attachments/assets/4e70dd96-e60f-4fb7-a631-387798bc7595)
